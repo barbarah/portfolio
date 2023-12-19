@@ -9,8 +9,8 @@ export default function Home() {
         Gespecialiseerd in JavaScript, React, Next.js, en Tailwind, breng ik meer dan tien jaar ervaring in het tot leven brengen van ideeën door middel van geavanceerde technologie en verfijnd design.
       </p>
       <div className="mt-10">
-        <a href="https://www.linkedin.com/in/barbarahonhoff" target="_blank" rel="noopener noreferrer" className="mr-4">LinkedIn</a>
-        <a href="https://github.com/barbarahonhoff" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/barbara-honhoff-325aa241/" target="_blank" rel="noopener noreferrer" className="mr-4">LinkedIn</a>
+        <a href="https://github.com/barbarah" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
     </div>
   )
